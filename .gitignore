@@ -2,6 +2,7 @@
 cobertura.ser
 /*.iml
 /*.iws
+/*.ipr
 /*.log
 /*.sublime-workspace
 /.idea
